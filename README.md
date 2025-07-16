@@ -73,7 +73,7 @@ python network_toolkit.py
 ### Initial Launch
 
 ```bash
-python network_toolkit_complete.py
+python network_toolkit.py
 ```
 
 Welcome screen will appear:
