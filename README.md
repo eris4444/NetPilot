@@ -12,6 +12,8 @@ A comprehensive and advanced tool for network analysis and management with SSH c
 - [Platform Support](#-platform-support)
 - [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
+- [Author](#-author)
+- [Support](#-support)
 
 ## ✨ Features
 
