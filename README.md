@@ -346,8 +346,6 @@ testssh hostname
 - [ ] Chat logging
 - [ ] Persian language support
 - [ ] Network speed test
-- [ ] DNS server switcher
-- [ ] MAC address lookup
 - [ ] Interface info
 
 ## 📄 License
