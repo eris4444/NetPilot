@@ -364,7 +364,7 @@ This project is licensed under the MIT License.
 
 If you have any issues:
 
-1. Check the [Troubleshooting](#troubleshooting) section
+1. Check the [Troubleshooting](#-troubleshooting) section
 2. Open an issue on GitHub
 3. Contact via [erisrtg.ir](https://erisrtg.ir)
 
