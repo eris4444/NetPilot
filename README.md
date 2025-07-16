@@ -63,9 +63,9 @@ pip install -r requirements.txt
 ### Download and Run
 
 ```bash
-git clone <repository-url>
-cd network-toolkit
-python network_toolkit_complete.py
+git clone https://github.com/eris4444/NetPilot
+cd NetPilot
+python network_toolkit.py
 ```
 
 ## 📖 Usage
