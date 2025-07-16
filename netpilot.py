@@ -29,7 +29,7 @@ class NetworkToolkit:
 
     def banner(self):
         print(colorama.Fore.CYAN + "╔" + "═"*60 + "╗")
-        print(colorama.Fore.CYAN + "║" + colorama.Fore.YELLOW + "          🌐 Advanced Network Toolkit v20                   " + colorama.Fore.CYAN + "║")
+        print(colorama.Fore.CYAN + "║" + colorama.Fore.YELLOW + "          🌐 Advanced Network Toolkit v2.0                  " + colorama.Fore.CYAN + "║")
         print(colorama.Fore.CYAN + "║" + colorama.Fore.GREEN + "                    by Eris                                 " + colorama.Fore.CYAN + "║")
         print(colorama.Fore.CYAN + "║" + colorama.Fore.WHITE + "              Visit https://erisrtg.ir                      " + colorama.Fore.CYAN + "║")
 
