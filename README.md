@@ -4,14 +4,14 @@ A comprehensive and advanced tool for network analysis and management with SSH c
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Available Commands](#available-commands)
-- [Examples](#examples)
-- [Platform Support](#platform-support)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Available Commands](#-available-commands)
+- [Examples](#-examples)
+- [Platform Support](#-platform-support)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
 
 ## ✨ Features
 
