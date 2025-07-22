@@ -98,7 +98,7 @@ curl -L https://tools.erisrtg.ir/eris-netpilot.deb | sudo dpkg --install /dev/st
 
 **After Debian installation, run:**
 ```bash
-netpilot
+eris-netpilot
 ```
 
 ### Method 2: Python Source Installation
