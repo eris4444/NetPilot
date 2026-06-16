@@ -4,7 +4,7 @@ A comprehensive and advanced tool for network analysis and management with SSH c
 
 ## 🔗 Quick Links
 
-- **[Tool webpage](https://tools.erisrtg.ir/netpilot.html)**
+- **[Tool webpage](https://tools.nwnw.ir/netpilot.html)**
 - **[GitHub Repository](https://github.com/eris4444/NetPilot)**
 - **[Author Website](https://erisrtg.ir)**
 
